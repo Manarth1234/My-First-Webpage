@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-color: goldenrod;
+}
+#welcome{
+    color:darkred;
+}
+#changecolor{
+    width:200px;
+    height:150px;
+    color:blue;
+    background-color:aqua;
+    font-size:18px;
+}
